@@ -1,0 +1,6 @@
+C:\Users\TNykuka\source\repos\1_10_UsingNUnitInVisualStudio\1_10_UsingNUnitInVisualStudio\bin\Debug\1_10_UsingNUnitInVisualStudio.exe.config
+C:\Users\TNykuka\source\repos\1_10_UsingNUnitInVisualStudio\1_10_UsingNUnitInVisualStudio\bin\Debug\1_10_UsingNUnitInVisualStudio.exe
+C:\Users\TNykuka\source\repos\1_10_UsingNUnitInVisualStudio\1_10_UsingNUnitInVisualStudio\bin\Debug\1_10_UsingNUnitInVisualStudio.pdb
+C:\Users\TNykuka\source\repos\1_10_UsingNUnitInVisualStudio\1_10_UsingNUnitInVisualStudio\obj\Debug\1_10_UsingNUnitInVisualStudio.csprojAssemblyReference.cache
+C:\Users\TNykuka\source\repos\1_10_UsingNUnitInVisualStudio\1_10_UsingNUnitInVisualStudio\obj\Debug\1_10_UsingNUnitInVisualStudio.exe
+C:\Users\TNykuka\source\repos\1_10_UsingNUnitInVisualStudio\1_10_UsingNUnitInVisualStudio\obj\Debug\1_10_UsingNUnitInVisualStudio.pdb
